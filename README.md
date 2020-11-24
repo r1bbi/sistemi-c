@@ -1,5 +1,5 @@
 # sistemi-c
-repo esercizi
+*repo esercizi*
 
 >Esercizi catalogati per data e numero di esercizio, 
 >guardare la sezione Projects per una rapida visione d'insieme.
