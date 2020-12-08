@@ -1,7 +1,7 @@
 # sistemi-c
 *repo esercizi*
 
-## **clicca su ```...``` e poi su ```go to files``` per vedere gli esercizi.**
+## **clicca su ``` ...``` e poi su ```go to files``` per vedere gli esercizi o su ```view code```.**
 
 >Esercizi catalogati per data e numero di esercizio, 
 >guardare la sezione Projects per una rapida visione d'insieme.
